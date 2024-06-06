@@ -1,32 +1,32 @@
 {
   "1127843366122569829": {
-    "yesterdayValue": 2679417.57,
-    "specificAmount": 2534.7245233202834,
-    "multiplier": 2650.25
+    "yesterdayValue": 2833117.25,
+    "specificAmount": 2680.12,
+    "multiplier": 2750.25
   },
   "1114887336610758720": {
-    "yesterdayValue": 584306.6,
-    "specificAmount": 2035.9109310543165,
-    "multiplier": 2001.05
+    "yesterdayValue": 590309.75,
+    "specificAmount": 2056.83,
+    "multiplier": 2056.83
   },
   "1179846785276055664": {
-    "yesterdayValue": 195033.69999999998,
-    "specificAmount": 1773.0337264462855,
-    "multiplier": 1789.3
+    "yesterdayValue": 193244.40,
+    "specificAmount": 1756.77,
+    "multiplier": 1756.77
   },
   "1163370374117982259": {
-    "yesterdayValue": 514732.44999999995,
-    "specificAmount": 2462.3650445895705,
-    "multiplier": 2510.89
+    "yesterdayValue": 514732.45,
+    "specificAmount":  2462.37,
+    "multiplier":  2462.37
   },
   "1183350423084613643": {
-    "yesterdayValue": 1462684.02,
-    "specificAmount": 2718.59264494666,
-    "multiplier": 2548.23
+    "yesterdayValue": 1503455.70,
+    "specificAmount": 2794.37,
+    "multiplier": 2650.20
   },
   "1195859614089105428": {
-    "yesterdayValue": 263379.3,
-    "specificAmount": 2011.2958882292062,
-    "multiplier": 2041.7
-  }
+    "yesterdayValue": 263379.30,
+    "specificAmount": 2011.30,
+    "multiplier": 2011.30
+}
 }
